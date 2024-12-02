@@ -2,7 +2,7 @@
 
 I'm a software developer with expertise in:
 - **Languages**: JavaScript, Java, PHP
-- **Frameworks**: React, React Native, Node.js, Angular, Arduino
+- **Frameworks**: React, React Native, Node.js, Angular, Arduino, Hibernate
 - **Database**: MySQL
 - **Tools**: GIT, Postman
 - **Interests**: IoT, AI, and Open Source
