@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 I'm a software developer with expertise in:
-- **Languages**: JavaScript, Java, PHP
-- **Frameworks**: React, React Native, Node.js, Angular, Arduino, Hibernate
-- **Database**: MySQL
+- **Languages**: JavaScript, Java, PHP, C++
+- **Frameworks**: Android, React, React Native, Node.js, Angular, Arduino, Hibernate, Laravel, Bootstrap, TailwindCSS
+- **Database**: MySQL, SQLite, Firebase
+- **IDE's**: VS Code, Intellij Idea, Android Studio, NetBeans
 - **Tools**: GIT, Postman
 - **Interests**: IoT, AI, and Open Source
 - 🔭 I’m currently working as a freelancer and available for working.
